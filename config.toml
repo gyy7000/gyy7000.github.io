@@ -22,6 +22,7 @@ DefaultContentLanguage = 'zh-cn'
 	mode="toggle" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "憤怒與神秘"
+	
 
 [[params.social]]
 name = "Telegram"
