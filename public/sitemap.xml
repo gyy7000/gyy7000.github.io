@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gyy7000.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2022-12-21T02:39:23+08:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://gyy7000.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-12-21T02:39:23+08:00</lastmod>
   </url><url>
-    <loc>https://gyy7000.github.io/posts/%E6%98%8E%E5%A4%A9/</loc>
+    <loc>/posts/%E6%98%8E%E5%A4%A9/</loc>
     <lastmod>2022-12-21T02:39:23+08:00</lastmod>
   </url><url>
-    <loc>https://gyy7000.github.io/posts/my-first-post-%E5%89%AF%E6%9C%AC/</loc>
+    <loc>/posts/my-first-post-%E5%89%AF%E6%9C%AC/</loc>
     <lastmod>2022-12-20T02:39:23+08:00</lastmod>
   </url><url>
-    <loc>https://gyy7000.github.io/posts/my-second-%E5%89%AF%E6%9C%AC/</loc>
+    <loc>/posts/my-second-%E5%89%AF%E6%9C%AC/</loc>
     <lastmod>2022-12-20T02:39:23+08:00</lastmod>
   </url><url>
-    <loc>https://gyy7000.github.io/posts/ceshipan/</loc>
+    <loc>/posts/ceshipan/</loc>
     <lastmod>2022-12-20T02:39:23+08:00</lastmod>
   </url><url>
-    <loc>https://gyy7000.github.io/posts/my-second/</loc>
+    <loc>/posts/my-second/</loc>
     <lastmod>2022-12-19T02:39:23+08:00</lastmod>
   </url><url>
-    <loc>https://gyy7000.github.io/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2022-12-17T02:39:23+08:00</lastmod>
   </url><url>
-    <loc>https://gyy7000.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://gyy7000.github.io/colophon/</loc>
+    <loc>/colophon/</loc>
   </url><url>
-    <loc>https://gyy7000.github.io/project/</loc>
+    <loc>/project/</loc>
   </url><url>
-    <loc>https://gyy7000.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
