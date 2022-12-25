@@ -1,7 +1,7 @@
 ---
 title: "Ethnoelectronics & Organic Acousmatic"
 date: 2022-12-20T02:39:23+08:00
-draft: false
+draft: true
 ---
 
 不是民族志亦不是world fusion, 前者在traditional 的框架内无论声音还是文字，后者建立在western classical 到 pop music的脉络下。
