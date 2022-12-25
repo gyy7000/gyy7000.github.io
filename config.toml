@@ -10,9 +10,9 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate=5 # articles per page
+paginate=3 # articles per page
 hasCJKLanguage = "true" 
-summaryLength =100
+summaryLength =200
 
 disableHugoGeneratorInject = "true"
 enableRobotsTXT = true
