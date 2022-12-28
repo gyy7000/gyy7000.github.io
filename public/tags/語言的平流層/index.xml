@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>語言的平流層 on PhantomAfrica</title>
+    <link>/tags/%E8%AA%9E%E8%A8%80%E7%9A%84%E5%B9%B3%E6%B5%81%E5%B1%A4/</link>
+    <description>Recent content in 語言的平流層 on PhantomAfrica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©  Qiutong</copyright>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E8%AA%9E%E8%A8%80%E7%9A%84%E5%B9%B3%E6%B5%81%E5%B1%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太陽墜落在荒廢的日子</title>
+      <link>/posts/sunset/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sunset/</guid>
+      <description>涼薄的季節 倦鳥低飛在黃昏邊緣 流浪者隨著白晝墜入焚屍爐 青煙浮起塵埃 流星終將把我們帶走</description>
+    </item>
+    
+    <item>
+      <title>迷幻迴響於太陽消逝</title>
+      <link>/posts/echo/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/echo/</guid>
+      <description>暮色遠去後醒來 暖爐混雜著菸草味 恍惚中振盪 嚎叫 遠古的歌者 低聲敲打 灰燼一點點鋪滿房間 使光看起來如此柔軟</description>
+    </item>
+    
+  </channel>
+</rss>

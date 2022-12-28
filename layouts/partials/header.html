@@ -29,7 +29,7 @@
 	{{ end }}
 	{{ if .Site.Params.useCDN | default false -}}
         <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+HK:wght@500&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
 	{{- else -}}
 	{{ $fontstyle := resources.Get "css/fonts.css" | fingerprint }}
@@ -60,5 +60,5 @@
 	<script src="{{ $.Site.BaseURL }}{{ . }}"></script>
 	{{- end }}
 	{{- end }}
-	<style> @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap'); </style>
+	<style> @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+HK:wght@500&display=swap'); </style>
 </head>
