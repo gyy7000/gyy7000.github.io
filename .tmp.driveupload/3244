@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©  Qiutong</copyright>
-    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>囈語</title>
+      <link>/tags/%E5%9B%88%E8%AA%9E/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E5%9B%88%E8%AA%9E/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>捕夢</title>
       <link>/tags/%E6%8D%95%E5%A4%A2/</link>
@@ -32,15 +41,6 @@
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/%E5%9B%9E%E6%86%B6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>囈語</title>
-      <link>/tags/%E5%9B%88%E8%AA%9E/</link>
-      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/%E5%9B%88%E8%AA%9E/</guid>
       <description></description>
     </item>
     
